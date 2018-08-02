@@ -1,0 +1,11 @@
+{
+  "name": "sql_rest_api",
+  "version": "1.0.0",
+  "description": "A RESTful SQL API that can edit database tables using POST, GET, PATCH/PUT and DELETE HTTP requests",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samuel Prevost",
+  "license": "ISC"
+}
